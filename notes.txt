@@ -3,3 +3,5 @@ https://www.youtube.com/watch?v=BlWS4foN9cY
 
 EXTRACT TRANSFORM LOAD 
 
+Goals: 
+
